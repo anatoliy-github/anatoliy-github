@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏽‍💻 I'm beginner Java developer<br>💼 I have completed several pet-projects<br>🤓 I like doing this
+🧑🏽‍💻 I'm Java developer<br>💼 I have completed several pet-projects<br>🤓 I like doing this
 
 ## 🌐 Site: [pakhomov.net.ru](http://pakhomov.net.ru)
 
