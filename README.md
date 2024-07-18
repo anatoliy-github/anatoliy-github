@@ -1,7 +1,5 @@
 # 💫 About Me:
-🧑🏽‍💻 I'm Java developer<br>💼 I have completed several pet-projects<br>🤓 I like doing this
-
-## 🌐 Site: [pakhomov.net.ru](http://pakhomov.net.ru)
+🧑🏽‍💻 I'm Java developer<br>💼 I have completed several projects<br>🤓 I like doing this
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/анатолий-пахомов-37b347257) 
